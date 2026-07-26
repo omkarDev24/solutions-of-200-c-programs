@@ -1,6 +1,6 @@
 #  Solutions of 200 C Programs
 
-A collection of **200 C programming solutions** based on the **CSA-100 Problem Solving and Programming syllabus**. The programs are arranged in a progressive order, making this repository ideal for beginners learning C programming as well as students preparing for practical exams and interviews. :contentReference[oaicite:0]{index=0}
+A collection of **200 C programming solutions** based on the **Problem Solving and Programming **. The programs are arranged in a progressive order, making this repository ideal for beginners learning C programming.
 
 ##  Program Categories
 
