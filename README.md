@@ -1,6 +1,6 @@
 #  Solutions of 200 C Programs
 
-A collection of **200 C programming solutions** based on the **Problem Solving and Programming **. The programs are arranged in a progressive order, making this repository ideal for beginners learning C programming.
+A collection of **200 C programming solutions** based on the **Problem Solving and Programming. The programs are arranged in a progressive order, making this repository ideal for beginners learning C programming.
 
 ##  Program Categories
 
@@ -132,4 +132,4 @@ If you found this repository useful:
 -  Fork it
 -  Share it with your friends and classmates
 
-Happy Coding! 💻
+Happy Coding! 
