@@ -106,7 +106,7 @@ The repository covers **200 practical programs** progressing from basic concepts
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/omkarDev24/solutions-of-200-c-programs.git
+git clone https://github.com/omkarDev24/solutions-of-200-c-questions.git
 ```
 
 ##  Contributing
