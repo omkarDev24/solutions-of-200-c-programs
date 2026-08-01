@@ -101,12 +101,12 @@ This repository contains solutions for the following topics:
 - Call by Reference
 - Recursion
 
-The repository covers **200 practical programs** progressing from basic concepts to loops, arrays, strings, functions, and recursion. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+The repository covers **200 practical programs** progressing from basic concepts to loops, arrays, strings, functions, and recursion.
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/omkarDev24/solutions-of-200-c-programs.git
+git clone https://github.com/omkarDev24/solutions-of-200-c-questions.git
 ```
 
 ##  Contributing
